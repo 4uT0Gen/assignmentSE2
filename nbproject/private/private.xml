@@ -3,55 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/logo.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/tusach.jpg</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/body-bg.jpg</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/footer.jsp</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/shipp.gif</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/index.jsp</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/form_login.jsp</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/searchicon.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/content.jsp</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/l2.jpg</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/g4.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/contact_us.jsp</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/cart.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/iconlogo.ico</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/o_1.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/s6.jpg</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/neww.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/rating.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/s5.jpg</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/src/Controller/servlet_DangNhap.java</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/mapp.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/product_details.jsp</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/3.jpg</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/logohanuTo2.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/g7.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/g5.jpg</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/s4.jpg</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/w.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/src/Controller/servlet_ChuyenTrang.java</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/logohanuTo.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/us3.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/s1.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/load.gif</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/o.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/src/Controller/servlet_XemThem.java</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/src/model/m_NHANXET.java</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/main_bar.jsp</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/src/model/Connect.java</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/s2.jpg</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/acc.jsp</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/1.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/s3.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/src/model/c_SACHYEUTHICH.java</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/fbook.jsp</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/nbproject/build-impl.xml</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/check_out_cart.jsp</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/images/home/2.png</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/src/Controller/servlet_DatHang.java</file>
-            <file>file:/F:/Ebook/SE%202/assignment/webBanSach_JSP/source/WebContent/admin/index.jsp</file>
+            <file>file:/F:/Ebook/SE%202/assignment/assignmentSE2/source/src/model/c_SACHYEUTHICH.java</file>
+            <file>file:/F:/Ebook/SE%202/assignment/assignmentSE2/source/WebContent/form_login.jsp</file>
+            <file>file:/F:/Ebook/SE%202/assignment/assignmentSE2/source/src/model/c_DONHANG.java</file>
+            <file>file:/F:/Ebook/SE%202/assignment/assignmentSE2/source/src/model/m_GIOHANG.java</file>
+            <file>file:/F:/Ebook/SE%202/assignment/assignmentSE2/source/src/Controller/servlet_XemThem.java</file>
         </group>
     </open-files>
 </project-private>
